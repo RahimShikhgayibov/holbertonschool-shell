@@ -1,2 +1,4 @@
 #!/bin/bash
-rev
+while IFS= read -r line; do
+    echo "$line" | rev
+done
