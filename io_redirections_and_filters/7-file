@@ -1,5 +1,2 @@
 #!/bin/bash
-# 7-file
-
-# Faylı yaradır və içərisinə "Best School" + yeni sətir yazır
 printf "Best School\n" > '*\\'"'"'Best School'"'"'\\*$?*****:)'
