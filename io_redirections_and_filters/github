@@ -1,0 +1,5 @@
+git add .
+git commit -m "shell basics"
+git config --global user.email rehim1718@gmail.com
+git config --global user.name RahimShikhgayibov
+git push
